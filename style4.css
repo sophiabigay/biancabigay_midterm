@@ -1,0 +1,39 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #FFEBC9;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+.myNav ul {
+    list-style-type: none;
+    height: 50px;
+    background-color: #753422;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.myNav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.myNav a:hover{
+    background-color: #D79771;
+}
+.myNav li{
+    float: left;
+}
+main {
+    background-color: #FAEED1;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 500px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+

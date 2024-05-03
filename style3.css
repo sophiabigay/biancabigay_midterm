@@ -1,0 +1,44 @@
+ body {
+    font-family: Monaco, "monospace";
+    margin: 0;
+    padding: 0;
+    background-color: #BF9270;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #E3CAA5;
+    padding: 20px;
+    border-radius: 8px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 10px;
+    border-bottom: 2px solid #876445;
+    border-right: 2px solid #876445;
+    border-left: 2px solid #876445 ;
+}
+th {
+    background-color: #BF9270;
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+h1 {
+    font-family: Comic Sans MS, "cursive";
+    text-align: center;
+    color: #000000;
+}
+caption{
+    font-family: Courier, "monospace";
+    text-align: center;
+}
+h2{
+    font-family: Courier, "monospace";
+    text-align: center;
+}
